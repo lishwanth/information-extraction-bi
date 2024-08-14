@@ -1,0 +1,12 @@
+flask
+fastapi
+pandas
+numpy
+pytesseract
+pdf2image
+Pillow
+transformers
+torch
+streamlit
+sqlite3
+unittest
